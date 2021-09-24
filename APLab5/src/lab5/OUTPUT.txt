@@ -1,0 +1,93 @@
+List of employed teachers
+James Clerk Maxwell @EE
+Issac Newton @PHY
+Ramarjun @MATH
+Donald Knuth @CSE
+Edsgar Dijkastra @CSE
+Rammohan Gandhi @HSS
+Arun Pujari @CSE
+---
+List of students
+CS01: Arjun
+EE01: Krishna Kumar
+CS02: Simon Singh
+EE02: Samriti Irani
+ME01: Sita Ram
+CS03: Alka Yagnik
+EE03: Renu Pandit
+CS04: Arjun Pandav
+ME02: Arjun Singh
+EE04: Ramu
+ME03: Babloo Bhaiya
+ME04: Chotu Lallan
+---
+List of subjects
+AP (3-2-0-4)  Advance Programming
+DSA (3-0-0-3)  Data Structures and Algorithms
+DSAL (0-3-0-2)  Data Structures and Algorithms Lab
+CP (3-0-0-4)  Computer Programming
+MATH (3-0-2-4)  Mathematics
+PHY (3-2-1-5)  Physics
+ENGL (3-0-0-4)  English 1
+ECON (2-2-2-4)  Economics
+CPL (0-3-1-2)  Computer Programming Lab
+DB (3-2-0-4)  Data Bases
+OS (3-3-0-4)  Operating Systems
+---
+Begin on time enrolment processing
+Subject not on offfer: EE
+Student Krishna Kumar already enrolled in AP
+---
+Begin teaching assignment processing
+---
+Begin processing Subject Add/Drops
+invalid: AP -E02 
+invalid: ME03 +CS02
+invalid: ME01 -CS03
+invalid: CS01 +ME
+invalid: CS05 +CPL
+---
+Students studying AP
+=============
+AP (3-2-0-4)  Advance Programming
+List of students
+CS01: Arjun
+EE02: Samriti Irani
+ME02: Arjun Singh
+EE01: Krishna Kumar
+ME04: Chotu Lallan
+ME03: Babloo Bhaiya
+---
+Instrutors for AP
+=============
+AP (3-2-0-4)  Advance Programming
+List of employed teachers
+Rammohan Gandhi @HSS
+---
+Term Ends
+Arjun (CS01) obtained grade A in subject AP:  Advance Programming by Rammohan Gandhi@HSS
+Samriti Irani (EE02) obtained grade A in subject AP:  Advance Programming by Rammohan Gandhi@HSS
+Arjun Singh (ME02) obtained grade A in subject AP:  Advance Programming by Rammohan Gandhi@HSS
+Krishna Kumar (EE01) obtained grade A in subject AP:  Advance Programming by Rammohan Gandhi@HSS
+Chotu Lallan (ME04) obtained grade A in subject AP:  Advance Programming by Rammohan Gandhi@HSS
+Babloo Bhaiya (ME03) obtained grade A in subject AP:  Advance Programming by Rammohan Gandhi@HSS
+Samriti Irani (EE02) obtained grade A in subject DSA:  Data Structures and Algorithms by Donald Knuth@CSE
+Samriti Irani (EE02) obtained grade A in subject DSAL:  Data Structures and Algorithms Lab by Donald Knuth@CSE
+Arjun Singh (ME02) obtained grade A in subject CP:  Computer Programming by Donald Knuth@CSE
+Babloo Bhaiya (ME03) obtained grade A in subject CP:  Computer Programming by Donald Knuth@CSE
+Samriti Irani (EE02) obtained grade A in subject CP:  Computer Programming by Donald Knuth@CSE
+Arjun (CS01) obtained grade A in subject MATH:  Mathematics by James Clerk Maxwell@EE
+Babloo Bhaiya (ME03) obtained grade A in subject MATH:  Mathematics by James Clerk Maxwell@EE
+Krishna Kumar (EE01) obtained grade A in subject MATH:  Mathematics by James Clerk Maxwell@EE
+Simon Singh (CS02) obtained grade A in subject MATH:  Mathematics by James Clerk Maxwell@EE
+Babloo Bhaiya (ME03) obtained grade A in subject PHY:  Physics by James Clerk Maxwell@EE
+Krishna Kumar (EE01) obtained grade A in subject PHY:  Physics by James Clerk Maxwell@EE
+Arjun (CS01) obtained grade A in subject PHY:  Physics by James Clerk Maxwell@EE
+Untaught subject ENGL:  English 1
+Untaught subject ECON:  Economics
+Babloo Bhaiya (ME03) obtained grade A in subject CPL:  Computer Programming Lab by Edsgar Dijkastra@CSE
+Untaught subject DB:  Data Bases
+Arjun Singh (ME02) obtained grade A in subject OS:  Operating Systems by Edsgar Dijkastra@CSE
+Babloo Bhaiya (ME03) obtained grade A in subject OS:  Operating Systems by Edsgar Dijkastra@CSE
+Krishna Kumar (EE01) obtained grade A in subject OS:  Operating Systems by Edsgar Dijkastra@CSE
+Arjun (CS01) obtained grade A in subject OS:  Operating Systems by Edsgar Dijkastra@CSE

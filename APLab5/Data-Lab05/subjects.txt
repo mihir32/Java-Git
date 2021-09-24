@@ -1,0 +1,11 @@
+AP 3-2-0-4 Advance Programming
+DSA 3-0-0-3 Data Structures and Algorithms
+DSAL 0-3-0-2 Data Structures and Algorithms Lab
+CP 3-0-0-4 Computer Programming
+MATH 3-0-2-4 Mathematics
+PHY 3-2-1-5 Physics
+ENGL 3-0-0-4 English 1
+ECON 2-2-2-4 Economics
+CPL 0-3-1-2 Computer Programming Lab
+DB 3-2-0-4 Data Bases
+OS 3-3-0-4 Operating Systems
